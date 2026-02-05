@@ -1,0 +1,19 @@
+# --- Core Framework & UI ---
+streamlit>=1.30.0
+pydantic>=2.0.0      # For mandatory structured JSON outputs
+python-dotenv>=1.0.0 # For .env.example requirement
+
+# --- LLM Providers ---
+groq>=0.4.0          # Primary LLM provider
+openai>=1.0.0        # For OpenRouter (uses OpenAI-compatible client)
+
+# --- Tooling & API Clients ---
+requests>=2.31.0     # For General API calls (Weather, News, Movie, etc.)
+PyGithub>=2.1.0      # For GitHub operations
+spotipy>=2.23.0      # For Music (Spotify) integration
+googlemaps>=4.10.0
+
+# --- Utilities ---
+httpx>=0.25.0        # Async requests for faster execution
+tenacity>=8.2.0      # For mandatory retry on API failure
+loguru>=0.7.0        # For clean execution logs (good for "Code Clarity" score)
