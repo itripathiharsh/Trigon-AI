@@ -201,5 +201,3 @@ Perfect for **GenAI Engineer / LLM Engineer / AI Platform / Intern roles**.
 ---
 
 ✨ Built with curiosity, speed, and a love for clean agentic systems.
-
-```
