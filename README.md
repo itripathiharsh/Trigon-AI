@@ -1,4 +1,4 @@
-# 🤖 AI Operations Assistant  
+#  AI Operations Assistant  
 ### GenAI Multi-Agent System (Planner • Executor • Verifier)
 
 <p align="center">
